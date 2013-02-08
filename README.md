@@ -29,3 +29,6 @@ Please only use definition OF YOUR OWN CREATION.  Definitions are copyright by t
 
 
 Right now there is ONLY the beginnings of a spanish dictionary
+
+
+You can check this data out on the front end site at http://freespanishdict.com
